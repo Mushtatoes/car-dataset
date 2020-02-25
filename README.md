@@ -8,7 +8,7 @@ Data from:
 - Sam Keene
 
 Ideas:
-Effects of features on the price
-How does the brand affect the price?
-What cars can be consider overpriced?
-Price VS. popularity?
+- Effects of features on the price
+- How does the brand affect the price?
+- What cars can be consider overpriced?
+- Price VS. popularity?
